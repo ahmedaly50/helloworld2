@@ -13,4 +13,5 @@ void func1(void)
 void func2(void)
 {
 	printf("hello world\n");
+	printf("hello world\n");
 }
