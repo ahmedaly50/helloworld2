@@ -9,10 +9,8 @@ int main (void)
 void func1(void)
 {
 	printf("hello world\n");
-	printf("hello world\n");
 }
 void func2(void)
 {
-	printf("hello world\n");
 	printf("hello world\n");
 }
