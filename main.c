@@ -2,9 +2,17 @@
 
 int main (void)
 {
-	printf("hello world\n");
-	printf("hello world\n");
-	printf("hello world\n");
-	printf("hello world\n");
+	func1();
+	func2();
 	return 0;
+}
+void func1(void)
+{
+	printf("hello world\n");
+	printf("hello world\n");
+}
+void func2(void)
+{
+	printf("hello world\n");
+	printf("hello world\n");
 }
