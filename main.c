@@ -2,8 +2,12 @@
 
 int main (void)
 {
+	//func1 comments
 	func1();
+
+	//func2 comments
 	func2();
+
 	return 0;
 }
 void func1(void)
