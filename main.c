@@ -8,7 +8,7 @@ int main (void)
 	//func2 comments
 	func2();
 
-	return 0;
+	return 1;
 }
 void func1(void)
 {
